@@ -7,8 +7,8 @@ Git控制器
         git：分布式服务器   
         
     3.初始化身份
-        git config --global user.name "iwen"
-        git config --global user.email "iwen@iwenwiki.com"
+        git config --global user.name "name"
+        git config --global user.email "email"
         
     4.创建仓库
         初始化仓库：git init
